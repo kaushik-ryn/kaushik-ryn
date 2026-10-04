@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kaushik Roy
 
-### 🚀 AI & Software Engineering Student | Full-Stack Developer | DSA Enthusiast
+### 🚀 Software Engineering Student | Full-Stack Developer | DSA Enthusiast
 
 Building practical applications with Django, React, REST APIs, and modern web technologies.
 
@@ -19,29 +19,17 @@ Building practical applications with Django, React, REST APIs, and modern web te
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+**Languages:** C++ • Python • JavaScript • Java
 
-C • C++ • Python • Java • JavaScript
+**Frontend:** React.js • Tailwind CSS
 
-### 🎨 Frontend
+**Backend:** Django • Node.js • REST APIs
 
-React.js • HTML5 • Tailwind CSS • Figma
+**Databases:** MySQL • MongoDB
 
-### ⚙️ Backend
+**Core CS:** DSA • OOP • DBMS • Operating Systems • Computer Networks
 
-Django • Node.js • Express.js • REST APIs
-
-### 🗄️ Databases
-
-MySQL • MongoDB
-
-### 🔧 Tools
-
-Git • GitHub • Postman
-
-### 🧠 Core CS
-
-Data Structures & Algorithms • OOP • Computer Networks • Operating Systems • DBMS • System Design • Authentication
+**Tools:** Git • GitHub • Postman
 
 ---
 
