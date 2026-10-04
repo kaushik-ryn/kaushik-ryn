@@ -35,21 +35,21 @@ Building practical applications with Django, React, REST APIs, and modern web te
 
 ## 🚀 Featured Projects
 
-### 🛒 Farm Place — E-Commerce Platform
+🔹 Farm Place — E-Commerce Platform
 
-- Full-stack e-commerce application built with **React.js and Django**
-- Implemented product listing, authentication, and cart functionality
-- Designed **RESTful APIs** for communication between frontend and backend
-- Focused on database optimization and user experience
+- Built a full-stack e-commerce platform using React.js and Django with dynamic product listings, user authentication, and cart management.
+- Developed RESTful APIs for seamless product, user, and cart data communication between frontend and backend.
+- Implemented database-driven workflows for product management, persistent cart data, and efficient data retrieval.
+- Designed a responsive interface focused on performance, scalability, and user experience.
 
-### 🍽️ Restaurant Management System
+🔹 Restaurant Management System
 
 - Full-stack restaurant management application using **Django and MySQL**
 - Built an admin dashboard for **order, user, and inventory management**
 - Implemented secure authentication and **role-based access control**
 - Developed REST APIs for efficient application communication
 
-### 🤖 Cheque Verification System — eSignify
+🔹 Cheque Verification System — eSignify
 
 - Developed an **AI-powered cheque verification system**
 - Used OCR and image-processing techniques to extract cheque information
