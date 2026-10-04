@@ -33,7 +33,7 @@ Building practical applications with Django, React, REST APIs, and modern web te
 
 🔹 Farm Place — E-Commerce Platform
 
-- Built a full-stack e-commerce platform using React.js and Django with dynamic product listings, user authentication, and cart management.
+- Built a full-stack e-commerce platform using Django with dynamic product listings
 - Developed RESTful APIs for seamless product, user, and cart data communication between frontend and backend.
 - Implemented database-driven workflows for product management, persistent cart data, and efficient data retrieval.
 
@@ -53,12 +53,10 @@ Building practical applications with Django, React, REST APIs, and modern web te
 
 ## 🏆 Achievements
 
-- 🔥 **400+ LeetCode Problems Solved**
-- 💻 **300+ GeeksforGeeks Problems Solved**
+- 🔥 **400+ LeetCode and 300+ GeeksforGeeks Problems Solved**
 - ⭐ **2000+ LeetCode Contest Rating**
-- 🥈 **Runner-Up — Galgotias International Hackathon**
+- 🥈 **Runner-Up — Galgotias International Hackathon and SIH Team Lead (Spearheaded internal 6-member backend & API team)**
 - 👨‍💼 **Vice President — DSW Club**
-- 🏅 **Secured wins in college coding competitions**
 
 ---
 
