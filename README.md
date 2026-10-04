@@ -6,6 +6,19 @@ Building practical applications with Django, React, REST APIs, and modern web te
 
 ---
 
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kaushik-ryn&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=kaushik-ryn&theme=tokyonight&hide_border=true" width="400"/>
+    </td>
+  </tr>
+</table>
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Artificial Intelligence @ NIET
@@ -57,21 +70,6 @@ Building practical applications with Django, React, REST APIs, and modern web te
 - ⭐ **2000+ LeetCode Contest Rating**
 - 🥈 **Runner-Up — Galgotias International Hackathon and SIH Team Lead (Spearheaded internal 6-member backend & API team)**
 - 👨‍💼 **Vice President — DSW Club**
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kaushik-ryn&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=kaushik-ryn&theme=tokyonight&hide_border=true" width="400"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
