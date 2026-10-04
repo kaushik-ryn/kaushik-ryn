@@ -13,8 +13,6 @@ Building practical applications with Django, React, REST APIs, and modern web te
 - 🧠 Solved **400+ LeetCode** and **300+ GeeksforGeeks** problems
 - ⭐ **2000+ LeetCode Contest Rating**
 - 🔐 Interested in Backend Development, APIs, Databases & System Design
-- 🚀 Passionate about building real-world software solutions
-
 ---
 
 ## 🛠️ Tech Stack
@@ -25,11 +23,9 @@ Building practical applications with Django, React, REST APIs, and modern web te
 
 **Backend:** Django • Node.js • REST APIs
 
-**Databases:** MySQL • MongoDB
+**Databases and Tools:** MySQL • MongoDB • Git • GitHub • Postman
 
 **Core CS:** DSA • OOP • DBMS • Operating Systems • Computer Networks
-
-**Tools:** Git • GitHub • Postman
 
 ---
 
@@ -40,21 +36,18 @@ Building practical applications with Django, React, REST APIs, and modern web te
 - Built a full-stack e-commerce platform using React.js and Django with dynamic product listings, user authentication, and cart management.
 - Developed RESTful APIs for seamless product, user, and cart data communication between frontend and backend.
 - Implemented database-driven workflows for product management, persistent cart data, and efficient data retrieval.
-- Designed a responsive interface focused on performance, scalability, and user experience.
 
 🔹 Restaurant Management System
 
 - Full-stack restaurant management application using **Django and MySQL**
 - Built an admin dashboard for **order, user, and inventory management**
 - Implemented secure authentication and **role-based access control**
-- Developed REST APIs for efficient application communication
 
 🔹 Cheque Verification System — eSignify
 
 - Developed an **AI-powered cheque verification system**
 - Used OCR and image-processing techniques to extract cheque information
 - Automated the cheque verification workflow
-- Focused on improving the accuracy and efficiency of verification
 
 ---
 
@@ -65,7 +58,7 @@ Building practical applications with Django, React, REST APIs, and modern web te
 - ⭐ **2000+ LeetCode Contest Rating**
 - 🥈 **Runner-Up — Galgotias International Hackathon**
 - 👨‍💼 **Vice President — DSW Club**
-- 🏅 Secured wins in college coding competitions
+- 🏅 **Secured wins in college coding competitions**
 
 ---
 
