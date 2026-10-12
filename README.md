@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kaushik Roy
-
+ 
 ### 🚀 Software Engineering Student | Full-Stack Developer | DSA Enthusiast
 
 Building practical applications with Django, React, REST APIs, and modern web technologies.
